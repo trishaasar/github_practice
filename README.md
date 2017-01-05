@@ -4,9 +4,8 @@ A repository with which to practice using git.
 
 ### What is your name?
 
-> Answer goes here
-
+Trisha Asar
 
 ### What is your favorite color?
 
-> Answer goes here
+Maroon
